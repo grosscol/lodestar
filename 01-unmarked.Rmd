@@ -418,7 +418,7 @@ plot(pb,
 
 ## Additional resources
 
-  + [*Overview of unmarked*](https://cran.r-project.org/web/packages/unmarked/vignettes/unmarked.pdf) vignette by Ian Fiske and Richard Chandler. The official intro guide that I copied some of the early examples from.
+  + [*Overview of unmarked*](https://cran.r-project.org/web/packages/unmarked/vignettes/unmarked.html) vignette by Ian Fiske and Richard Chandler. The official intro guide that I copied some of the early examples from.
   + [*unmarked: An R Package for Fitting Hierarchical Models of Wildlife Occurrence and Abundance*](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0ahUKEwiFws-PtojXAhXCXrwKHdxKA70QFghLMAQ&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv043i10%2Fv43i10.pdf&usg=AOvVaw25YLdQ8rX4TzNWw0NGUneI). The paper about the package
   + The `unmarked` [website](https://sites.google.com/site/unmarkedinfo/home).
   + The `unmarked` [google group/forum](https://groups.google.com/forum/#!forum/unmarked). This is frequented by most of the package creators/contributors and other occupancy modellers. More often than not the answer to your problems has already been solved here.
